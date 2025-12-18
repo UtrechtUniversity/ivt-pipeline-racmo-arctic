@@ -1,0 +1,5 @@
+*.nc
+*.grb
+*.log
+__pycache__/
+*.tmp
