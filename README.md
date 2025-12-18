@@ -9,6 +9,7 @@ from RACMO output for Arctic analysis.
 
 ## Notes
 - Large data files are excluded via .gitignore
-- Pipeline developed at UU / KNMI
+- Pipeline developed at UU / IMAU
 
-Author: Linda
+Author: Linda Gavras-van Garderen
+contact: Willem Jan van de Berg
